@@ -12,12 +12,12 @@
 
 ```javascript
 const mk = {
-  Languages & Frameworks: [C, C++, Java, Go, Python, SQL],
-Databases & Web Technologies: [PostgreSQL, MongoDB, SQLite, Oracle],
-AI, Cloud & Infrastructure: [AWS, GCP, Azure, Docker, Kubernetes, Terraform, Linux, Git, Jenkins],
-Distributed Systems & Tools: [Apache Kafka, Apache Spark],
-Software Development: [REST API, CI/CD, Agile, Multithreading, Concurrency, Object-Oriented Programming]
-}
+  "Languages & Frameworks": ["C", "C++", "Java", "Go", "Python", "SQL"],
+  "Databases & Web Technologies": ["PostgreSQL", "MongoDB", "SQLite", "Oracle"],
+  "AI, Cloud & Infrastructure": ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Terraform", "Linux", "Git", "Jenkins"],
+  "Distributed Systems & Tools": ["Apache Kafka", "Apache Spark"],
+  "Software Development": ["REST API", "CI/CD", "Agile", "Multithreading", "Concurrency", "Object-Oriented Programming"]
+};
 ```
 
 
