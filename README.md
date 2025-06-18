@@ -12,23 +12,11 @@
 
 ```javascript
 const mk = {
-  pronouns: "she" | "her",
-  Machine Learning: [Supervised and Unsupervised Models using Scikit-learn, basic deep learning, basic NLP ],
-  Data Visualization: [Using Python (Pandas, NumPy, Seaborn,Matplotlib), Tableau, Excel],
-  Salesforce: [Apex (classes, triggers), LWC, Data Loading, Tableau CRM, SOQL/SOSL],
-  Database Knowledge: [MySQL, Postgres, MongoDB],
-  Software Development: [Python, C++, Java, JS, CSS,Shell Scripting, Git],
-  Framework Knowledge: [Django, Flask, Docker, Jupyter, Heroku],
-  Languages: {
-                        Native or bilingual proficiency: "English, Hindi",
-                        Professional working proficiency: "French, Punjabi",
-                        Limited working proficiency: "Urdu, German"
-                      },
-  Other: {
-                        Salesforce Profile: "https://trailblazer.me/id/mk999",
-                        Volunteering: "Online Research Mentor @FSST, Canada",
-                      }
-
+  Languages & Frameworks: [C, C++, Java, Go, Python, SQL],
+Databases & Web Technologies: [PostgreSQL, MongoDB, SQLite, Oracle],
+AI, Cloud & Infrastructure: [AWS, GCP, Azure, Docker, Kubernetes, Terraform, Linux, Git, Jenkins],
+Distributed Systems & Tools: [Apache Kafka, Apache Spark],
+Software Development: [REST API, CI/CD, Agile, Multithreading, Concurrency, Object-Oriented Programming]
 }
 ```
 
